@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/
+target/
+*/target/*
+.bsp/
+.project/
+.bloop/
+.metals

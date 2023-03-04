@@ -6,7 +6,7 @@
 
 Dealing with CSV files that have millions of lines can be a tough task, particularly when you require detailed error messages.
 
-In this article, we'll look into how to parse CSV files using Apache Spark, and how to show errors while parsing.
+In this article, we'll look into how to parse CSV files using Apache Spark, and how to show detail error messages during parsing such as line number and file name where the error occurred.
 
 ## Understanding CSV Files
 
